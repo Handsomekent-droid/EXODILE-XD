@@ -1,275 +1,213 @@
-<h1 align="center"> 🤖 MULTI DEVICE WHATSAPP BOT </h1>
+<div align="center">
 
-<div align="center"> 
-  <a href="https://youtube.com/@GlobalTechInfo"> 
-    <img src="https://github.com/GlobalTechInfo/MEGA-MD/blob/main/assets/bot_image.jpg" alt="MEGA AI" height="300"> 
-  </a> 
+<img src="https://i.postimg.cc/prDnFtCs/file-00000000a42c71fda9a5dbde23b9bd30-(1).png" width="250"/>
+
+# 💀 EXODILE XD
+## *Built Different. Built Deadly.*
+
+> The Most Powerful WhatsApp Bot — Crafted by **Dev Prime Killer Nova Kent**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Handsomekent-droid&color=red&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Handsomekent-droid)
+[![Stars](https://img.shields.io/github/stars/Handsomekent-droid/EXODILE-XD?style=flat-square&color=yellow&label=STARS)](https://github.com/Handsomekent-droid/EXODILE-XD/stargazers)
+[![Forks](https://img.shields.io/github/forks/Handsomekent-droid/EXODILE-XD?style=flat-square&color=blue&label=FORKS)](https://github.com/Handsomekent-droid/EXODILE-XD/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/Handsomekent-droid/EXODILE-XD?style=flat-square&color=green&label=LAST+COMMIT)](https://github.com/Handsomekent-droid/EXODILE-XD/commits)
+
+<br/>
+
+⚡ **FAST** &nbsp;•&nbsp; 🔒 **SECURE** &nbsp;•&nbsp; 💀 **DEADLY**
+
+<br/>
+
+[![WhatsApp Channel](https://img.shields.io/badge/📢-WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCMoQ105MUWi87guK2B)
+[![Telegram Channel](https://img.shields.io/badge/📢-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/exodileepicxd)
+[![Contact Boss](https://img.shields.io/badge/👑-Contact_The_Boss-black?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254784747151)
+
 </div>
+
+---
+
+## 👑 Who Is The Boss?
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GlobalTechInfo&label=Profile+Views&color=success&style=flat-square" />
-<img src="https://img.shields.io/github/stars/GlobalTechInfo/MEGA-MD?color=blue&style=yellow-square" />
-<img src="https://img.shields.io/github/forks/GlobalTechInfo/MEGA-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/GlobalTechInfo/MEGA-MD?color=success&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/GlobalTechInfo/MEGA-MD?color=yellow&style=flat-square" />
-<a href="https://discord.gg/fZ7MVJM9sq">
-  <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
-</a>
+| | |
+|---|---|
+| 👤 **Name** | Dev Prime Killer Nova Kent |
+| 📱 **WhatsApp** | [+254784747151](https://wa.me/254784747151) |
+| 📢 **WA Channel** | [EXODILE XD Channel](https://whatsapp.com/channel/0029VbCMoQ105MUWi87guK2B) |
+| ✈️ **Telegram** | [@exodileepicxd](https://t.me/exodileepicxd) |
+| 💻 **GitHub** | [@Handsomekent-droid](https://github.com/Handsomekent-droid) |
+
 </div>
 
 ---
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=MEGA+PRO+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
-</p>
+
+## 📸 Bot Preview
+
+> *Screenshots of the bot in action*
+
+| Menu | Downloads | AI Chat |
+|---|---|---|
+| ![menu](https://i.postimg.cc/prDnFtCs/file-00000000a42c71fda9a5dbde23b9bd30-(1).png) | *Coming soon* | *Coming soon* |
 
 ---
 
-## Steps to Deploy
+## ✨ Features
 
-### Step 1: Fork the Repository
+### 🎵 Downloads
+- YouTube MP3 & MP4
+- TikTok (no watermark)
+- Instagram photos & videos
+- Spotify tracks
+- Facebook videos
+- Twitter/X videos
+- SoundCloud audio
+- MediaFire & Google Drive
 
-Click the button below to fork the Mega Md repository to your GitHub account:
+### 🤖 AI & Chat
+- GPT-4, Gemini, LLaMA, DeepSeek, Blackbox
+- AI Bible assistant
+- AI Muslim assistant
+- AI Physics, Maths & Chemistry tutor
+- Grammar checker & Dictionary
+
+### 🛡️ Group Protection
+- **Antilink** — delete / warn / kick / warnkick modes
+- Domain whitelist (allow YouTube, block everything else)
+- Warning counter with auto-kick
+- Anti-spam system
+- Badword filter
+- Anti-group mention
+
+### 🗑️ Antidelete
+- Catches all deleted messages
+- Recovers deleted media
+- ViewOnce media auto-saved to owner
+- Full report sent to owner
+
+### 📤 GC Status
+- Reply to any text → posts to group status
+- Reply to image → posts image status
+- Reply to video → posts video status
+- Every group member sees it instantly
+
+### 🎮 Fun & Games
+- Truth / Dare / WYR / Paranoia / NHIE
+- Pickup lines, Insults, Jokes, Memes
+- Quotes & Quote Audio
+- TicTacToe game
+
+### 📊 Stalker Tools
+- Instagram profile lookup
+- TikTok profile lookup
+- Twitter/X profile lookup
+- GitHub profile & repo lookup
+- Pinterest stalker
+- IP lookup & Country info
+
+### 🕌 Spiritual
+- Bible search & AI Bible
+- Quran Surah list & audio
+- Hymnal & Adventist Hymnal
+- AI Muslim assistant
+
+### ⚽ Sports
+- EPL live scores & standings
+- Bundesliga scores & standings
+- Top scorers & upcoming fixtures
+- Player & team search
+
+### 🖼️ Image Tools
+- Remove background
+- Image enhancer
+- Magic Studio AI art
+- Wallpaper search
+- PhotoFunia effects
+- Logo maker
+
+### 🎓 Education
+- Dictionary & grammar check
+- Book search & download
+- KCSE results checker
+- Fruit info & Poem generator
+
+---
+
+## 💰 Pricing
+
+> All pricing is handled **directly by the owner**.
+> No middlemen. No bots. Talk to Kent personally.
+
+| Package | What You Get |
+|---|---|
+| 🔥 **Basic** | Bot setup + session ID |
+| 💎 **Premium** | Full setup + hosting help + support |
+| 👑 **VIP** | Everything + custom plugins on request |
+
+[![Get Pricing](https://img.shields.io/badge/💬-Get_Pricing_Now-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/254784747151?text=Hey%20Kent%20I%20want%20to%20get%20EXODILE%20XD%20what%20are%20your%20prices?)
+
+---
+
+## 🚀 Deployment
+
+> ⚠️ **Do NOT try to deploy alone.**
+> Contact the owner for a smooth and proper setup.
+> Wrong setup = bot won't work. Don't waste your time.
+
+### Step 1 — Fork the Repo
+[![Fork](https://img.shields.io/badge/FORK-THIS_REPO-orange?style=for-the-badge&logo=github)](https://github.com/Handsomekent-droid/EXODILE-XD/fork)
+
+### Step 2 — Get Your Session ID
+> Session ID is generated and given **by the owner only**.
+
+[![Get Session ID](https://img.shields.io/badge/GET-SESSION_ID-red?style=for-the-badge&logo=whatsapp)](https://wa.me/254784747151?text=Hey%20Kent%20I%20need%20a%20Session%20ID%20for%20EXODILE%20XD)
+
+### Step 3 — Get Deployment Help
+> The owner will guide you through the full setup personally.
+
+[![WhatsApp Help](https://img.shields.io/badge/WhatsApp-Get_Help-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/254784747151?text=Hey%20Kent%20I%20need%20help%20deploying%20EXODILE%20XD)
+[![Telegram Help](https://img.shields.io/badge/Telegram-Get_Help-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/exodileepicxd)
+
+---
+
+## ⚙️ Environment Variables
+
+| Variable | Required | Description |
+|---|---|---|
+| `SESSION_ID` | ✅ | Given by owner after purchase |
+| `OWNER_NUMBER` | ✅ | Your WhatsApp number (no + or spaces) |
+| `TELEGRAM_BOT_TOKEN` | ✅ | From @BotFather on Telegram |
+| `TELEGRAM_OWNER_ID` | ✅ | Your Telegram user ID |
+| `TZ` | ❌ | Timezone (default: Africa/Lagos) |
+| `MONGO_URL` | ❌ | MongoDB URL (leave blank for file mode) |
+| `BOT_PREFIX` | ❌ | Command prefix (default: `.!/#`) |
+
+---
+
+## ⚠️ Important Notices
+
+> 🚫 **Do not resell this bot without permission**
+> 🚫 **Do not remove owner credits**
+> 🚫 **Do not claim this bot as your own**
+> ✅ **All rights reserved — Dev Prime Killer Nova Kent 💀**
+
+---
+
+## 📞 Stay Connected
 
 <div align="center">
-  <a href="https://github.com/GlobalTechInfo/MEGA-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repo-orange?style=for-the-badge" alt="Fork the repository"/>
-  </a>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-254784747151-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254784747151)
+[![WA Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCMoQ105MUWi87guK2B)
+[![Telegram](https://img.shields.io/badge/Telegram-@exodileepicxd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/exodileepicxd)
+[![GitHub](https://img.shields.io/badge/GitHub-Handsomekent--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Handsomekent-droid)
+
+<br/>
+
+---
+
+<h3>💀 Made with blood, sweat & code by <b>Dev Prime Killer Nova Kent</b> 💀</h3>
+
+*If you use this bot, give credit. If you steal it, that's on you.*
+
 </div>
-
----
-
-### Step 2: Get Pair Code
-
-Easily connect to your WhatsApp account by pair code.
-
-<div align="center">
-  <a href="https://mega-pairing.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/SESSION-ID-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
-
----
-
-
-### Step 3: Set Environment Variables.
-
-
-**Note:** Set these environment variables in .env file 
-
-| Variable | Description 
-|---|---| 
-| REMOVEBG_KEY | API key for www.remove.bg |
-| SESSION_ID | Session id you got via pairing |
-
-
-**Use One Of Following ( Optional But Highly Recommended )** 
-
-| Variable | Description 
-|---|---| 
-| MONGO_URL | mongo db connection uri |
-| POSTGRES_URL | postgres:// postgres connection url |
-| MYSQL_URL | mysql://mysql connection url |
-
-----
-
-### Step 4: Deploy Now
-
-**Option A: Deploy In Heroku**
-1. [Sign Up on Heroku](https://signup.heroku.com/) if you haven’t already.
-2. Click the button below to deploy directly In Heroku:
-   <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/MEGA-MD/Bypass' target="_blank">
-      <img alt='Deploy In Heroku' src='https://img.shields.io/badge/-DEPLOY%20NOW-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
-   </a>
-
-**Option B: Deploy In Koyeb**
-1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup). if you haven’t already.
-2. Click the button below to deploy using Koyeb:
-   <br>
-   <a href='https://app.koyeb.com' target="_blank">
-      <img alt='Deploy In Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
-   </a>
-
-**Option C: Deploy In Railway**
-1. [Sign Up on Railway](https://railway.app/login) if you haven’t already.
-2. Click the button below to deploy using Railway:
-   <br>
-   <a href='https://railway.app/new' target="_blank">
-      <img alt='Deploy In Railway' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/>
-   </a>
-
-**Option D: Deploy In Render**
-1. [Sign Up on Render](https://dashboard.render.com/register) if you haven’t already.
-2. Click the button below to deploy using Render:
-   <br>
-   <a href='https://dashboard.render.com' target="_blank">
-      <img alt='Deploy In Render' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
-   </a>
-   
-**Option E: Deploy In Replit**
-1. [Sign Up on Replit](https://repl.it) if you haven’t already.
-2. Click the button below to deploy using Replit:
-   <br>
-   <a href='https://repl.it/github/GlobalTechInfo/MEGA-MD' target="_blank">
-      <img alt='Deploy In Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
-   </a>
-
-**Option F: Deploy In Sevalla**
-1. [Sign Up on Sevalla](https://sevalla.com/signup/) if you haven’t already.
-2. Click the button below to deploy using Sevalla:
-   <br>
-   <a href='https://sevalla.com' target="_blank">
-      <img alt='Deploy In Sevalla' src='https://img.shields.io/badge/-DEPLOY%20NOW-blue?style=for-the-badge&logo=sevalla&logoColor=white'/>
-   </a>
-   
-**Option G: Deploy In Fly.io**
-1. [Sign Up on Fly.io](https://fly.io/app/sign-up) if you haven’t already.
-2. Click the button below to deploy using Fly.io:
-   <br>
-   <a href='https://fly.io' target="_blank">
-      <img alt='Deploy In Sevalla' src='https://img.shields.io/badge/-DEPLOY%20NOW-magenta?style=for-the-badge&logo=flyio&logoColor=white'/>
-   </a>
-
-**Option H: Deploy In Panel**
-1. First You Have to Sign up on discord using web or app then click below.
-2. [Sign Up On Panel](https://optiklink.com/auth) if you don’t have Already.
-3. Click the button below to deploy using Panel:
-   <br>
-   <a href='https://control.optiklink.com/' target="_blank">
-      <img alt='Deploy In Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
-   </a>
-
----
-
-### Join Us
-
-<div align="center">
-  <a href="https://t.me/GlobalTechBots">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
-
----
-
-## Features
-
-- **Tag all group members** with the `.tagall` command
-- **Automated Tasks** with the `.autoreact, .autostatus, .autoread` commands
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Owner restricted usage** (Only owner/sudo can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Social Media** downloaders for popular social media webistes and apps
-- **Text Makers** with `.ephoto`
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Logo creations** with `.ephoto`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
-- **And much more .....**
-
----
-
-## About
-
-The MEGA AI WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
-
----
-
-## Self Hosting Guide
-
-### Deploye in Termux/Ubuntu/Vps/Rdp
-   
-```
-pkg update && pkg upgrade -y
-```
-```
-pkg install proot-distro
-```
-```
-proot-distro install ubuntu
-```
-```
-proot-distro login ubuntu
-```
-```
-apt update && apt upgrade -y
-```
-```
-apt install -y webp git ffmpeg curl imagemagick
-```
-```
-apt -y remove nodejs
-curl -fsSl https://deb.nodesource.com/setup_20.x | bash - && apt -y install nodejs
-```
-```
-git clone https://github.com/<your gitHub Username>/MEGA-MD
-cd MEGA-MD
-```
-```
-npm install
-```
-```
-npm start
-```
-
----
-
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/GlobalTechInfo/MEGA-MD/blob/main/LICENSE) file for details.
-
----
-
-## Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/GlobalTechInfo/MEGA-MD/issues).
-
----
-
-## 🌟 Show your support
-
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/GlobalTechInfo/MEGA-MD)!
-
-
-## Credits
-
-| [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
-| --- | --- 
-| [Qasim Ali](https://github.com/GlobalTechInfo) |[WhiskeySockets](https://github.com/WhiskeySockets) |
-
----
-
-## Important Warning
-
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
-
-## Legal Notice
-
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-## Copyright Notice
-
-Copyright (c) 2026 GlobalTechInfo. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
-
-<h2> IMPORTANT NOTICE </h2>
-
-- Not For Sale
-- If A plugin's code is obfuscated , You don't have permission to edit it in any form 
-- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
-- Have A Good Day
-
