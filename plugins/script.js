@@ -1,1 +1,70 @@
-function a0_0x4ebc(){const _0x4b4727=['151IitPqP','189445ESJkcL','version','toString','exports','340jAGMED','1384424tuQAAi','768297PFZKMp','join','remoteJid','script','12014xKKCow','2432780DCBwEe','16eToKty','𖤐\x20*ᴅᴇᴠ:*\x20ᴱˣᴼᴰᴵᴸᴱ\x20ᴱᴾᴵᶜ\x20ˢᴴᴬᴺ\x0a','╔══════════════════════════╗\x0a','3377853HgYTDF','info','../lib/messageConfig','../settings','✦\x20*ᴠᴇʀsɪᴏɴ:*\x20','search','𖤐\x20*ᴘʀᴇᴍɪᴜᴍ\x20ᴡʜᴀᴛsᴀᴘᴘ\x20ʙᴏᴛ*\x0a\x0a','../assets/bot_image.jpg','189332XxXsjx','║\x20\x20✦\x20ᎬХϴᎠᏆᏞᎬ\x20ХᎠ\x20\x20\x20\x20║\x0a','╚══════════════════════════╝\x0a\x0a','key','chatId','scriptsrc','❖\x20ꜰᴜʟʟʏ\x20ᴄᴜsᴛᴏᴍɪsᴀʙʟᴇ\x20&\x20sᴛᴀʙʟᴇ\x0a','✯\x20ᴀᴜᴛᴏ-ʟᴏᴀᴅ\x20ᴘʟᴜɢɪɴs\x20•\x20ᴛᴇʟᴇɢʀᴀᴍ\x20ᴍɢʀ\x0a\x0a','sendMessage','✧\x20ꜰᴀsᴛ\x20•\x20sᴇᴄᴜʀᴇ\x20•\x20ᴍᴜʟᴛɪ-sᴇssɪᴏɴ\x0a','../lib/strictOwner','path','.script','42iWyhXv','ⓔⓧⓞⓓⓘⓛⓔ\x20ⓧⓓ\x20ᴏꜰꜰɪᴄɪᴀʟ\x20sᴄʀɪᴘᴛ\x20ɪɴꜰᴏ'];a0_0x4ebc=function(){return _0x4b4727;};return a0_0x4ebc();}const a0_0x441e25=a0_0x50ca;(function(_0x267cb2,_0x1fe8ff){const _0x17d6bf=a0_0x50ca,_0x5e4d78=_0x267cb2();while(!![]){try{const _0x2838e1=parseInt(_0x17d6bf(0x17d))/0x1*(parseInt(_0x17d6bf(0x188))/0x2)+-parseInt(_0x17d6bf(0x184))/0x3+parseInt(_0x17d6bf(0x183))/0x4+-parseInt(_0x17d6bf(0x17e))/0x5*(parseInt(_0x17d6bf(0x17b))/0x6)+parseInt(_0x17d6bf(0x189))/0x7*(parseInt(_0x17d6bf(0x18a))/0x8)+-parseInt(_0x17d6bf(0x18d))/0x9+parseInt(_0x17d6bf(0x182))/0xa*(-parseInt(_0x17d6bf(0x16e))/0xb);if(_0x2838e1===_0x1fe8ff)break;else _0x5e4d78['push'](_0x5e4d78['shift']());}catch(_0x1e5f26){_0x5e4d78['push'](_0x5e4d78['shift']());}}}(a0_0x4ebc,0x71ddc));const a0_0x500b18=(function(){let _0x326bfb=!![];return function(_0xab0156,_0x2b6f6b){const _0x50a0c9=_0x326bfb?function(){if(_0x2b6f6b){const _0x43c8ab=_0x2b6f6b['apply'](_0xab0156,arguments);return _0x2b6f6b=null,_0x43c8ab;}}:function(){};return _0x326bfb=![],_0x50a0c9;};}()),a0_0x1cd38a=a0_0x500b18(this,function(){const _0x5693c8=a0_0x50ca;return a0_0x1cd38a[_0x5693c8(0x180)]()['search']('(((.+)+)+)+$')[_0x5693c8(0x180)]()['constructor'](a0_0x1cd38a)[_0x5693c8(0x192)]('(((.+)+)+)+$');});function a0_0x50ca(_0x460ab2,_0x315e9c){_0x460ab2=_0x460ab2-0x16d;const _0x3772c2=a0_0x4ebc();let _0x1cd38a=_0x3772c2[_0x460ab2];return _0x1cd38a;}a0_0x1cd38a();'use strict';const {denyIfNotStrictOwner}=require(a0_0x441e25(0x178)),fs=require('fs'),path=require(a0_0x441e25(0x179)),{channelInfo}=require(a0_0x441e25(0x18f)),settings=require(a0_0x441e25(0x190));module[a0_0x441e25(0x181)]={'command':a0_0x441e25(0x187),'aliases':['repo','sc',a0_0x441e25(0x173)],'category':a0_0x441e25(0x18e),'description':a0_0x441e25(0x17c),'usage':a0_0x441e25(0x17a),async 'handler'(_0x278a7b,_0x24d1e8,_0x3d252e,_0x4eae2f={}){const _0x3c21a8=a0_0x441e25,_0x2f8a84=_0x4eae2f[_0x3c21a8(0x172)]||_0x24d1e8[_0x3c21a8(0x171)][_0x3c21a8(0x186)];if(await denyIfNotStrictOwner(_0x278a7b,_0x24d1e8,_0x2f8a84))return;const _0xa02110=_0x3c21a8(0x18c)+_0x3c21a8(0x16f)+_0x3c21a8(0x170)+_0x3c21a8(0x193)+_0x3c21a8(0x177)+_0x3c21a8(0x174)+_0x3c21a8(0x175)+_0x3c21a8(0x18b)+(_0x3c21a8(0x191)+settings[_0x3c21a8(0x17f)]+'\x0a\x0a')+('❖\x20ᴄᴏɴᴛᴀᴄᴛ:\x20'+settings['channelLink']),_0x2a9d14=path[_0x3c21a8(0x185)](__dirname,_0x3c21a8(0x16d));try{const _0x3f21bd=fs['readFileSync'](_0x2a9d14);await _0x278a7b[_0x3c21a8(0x176)](_0x2f8a84,{'image':_0x3f21bd,'caption':_0xa02110,...channelInfo},{'quoted':_0x24d1e8});}catch{await _0x278a7b[_0x3c21a8(0x176)](_0x2f8a84,{'text':_0xa02110,...channelInfo},{'quoted':_0x24d1e8});}}};
+'use strict';
+
+const fs       = require('fs');
+const path     = require('path');
+const { getChannelInfo } = require('../lib/messageConfig');
+const settings = require('../settings');
+
+// Rotating hype lines — one picked randomly each time
+const HYPE = [
+  `💀 *They copy. We create. There's a difference.*`,
+  `⚡ *While others sleep, EXODILE XD evolves.*`,
+  `🔥 *Not just a bot. A whole different species.*`,
+  `💀 *Built in the dark. Hits different in the light.*`,
+  `⚡ *The code is obfuscated. The drip is not.*`,
+  `🔥 *Fork it. Study it. You still won't catch up.*`,
+  `💀 *Every feature was a problem we solved ourselves.*`,
+  `⚡ *Streets respect the ones who build, not copy.*`,
+];
+
+function randomHype() {
+  return HYPE[Math.floor(Math.random() * HYPE.length)];
+}
+
+module.exports = {
+  command: 'script',
+  aliases: ['repo', 'sc', 'scriptsrc', 'source', 'exodile'],
+  category: 'info',
+  description: '💀 EXODILE XD repo & info',
+  usage: '.repo',
+
+  async handler(sock, message, args, context = {}) {
+    const chatId = context.chatId || message.key.remoteJid;
+    const ci     = getChannelInfo();
+
+    const caption =
+      `┏━━━━━━━━━━━━━━━━━━━━━┓\n` +
+      `┃  💀 ᴇxᴏᴅɪʟᴇ xᴅ — ʀᴇᴘᴏ  ┃\n` +
+      `┗━━━━━━━━━━━━━━━━━━━━━┛\n\n` +
+
+      `${randomHype()}\n\n` +
+
+      `▸ 👑 *ᴅᴇᴠ* \n` +
+      `  Dev Prime Killer Nova Kent\n\n` +
+
+      `▸ 🔖 *ᴠᴇʀsɪᴏɴ*\n` +
+      `  ${settings.version || 'v2.0.0'}\n\n` +
+
+      `▸ 💻 *ɢɪᴛʜᴜʙ*\n` +
+      `  github.com/Handsomekent-droid/EXODILE-XD\n\n` +
+
+      `▸ 📢 *ᴄʜᴀɴɴᴇʟs*\n` +
+      `  📱 wa.me/254784747151\n` +
+      `  📣 t.me/exodileepicxd\n\n` +
+
+      `━━━━━━━━━━━━━━━━━━━━━━\n` +
+      `⚡ *ꜰᴀsᴛ  •  sᴇᴄᴜʀᴇ  •  ᴅᴇᴀᴅʟʏ*\n` +
+      `━━━━━━━━━━━━━━━━━━━━━━\n\n` +
+
+      `🌐 *Star the repo. Join the movement.*\n` +
+      `> 💀 ᴇxᴏᴅɪʟᴇ-xᴅ // ᴘʀɪᴍᴇ ᴋᴇɴᴛ`;
+
+    const imgPath = path.join(__dirname, '../assets/bot_image.jpg');
+    try {
+      const buf = fs.readFileSync(imgPath);
+      await sock.sendMessage(chatId, { image: buf, caption, ...ci }, { quoted: message });
+    } catch {
+      await sock.sendMessage(chatId, { text: caption, ...ci }, { quoted: message });
+    }
+  }
+};
