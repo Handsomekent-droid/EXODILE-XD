@@ -1,0 +1,31 @@
+{
+  "_comment": "\u1d07x\u1d0f\u1d05\u026a\u029f\u1d07 x\u1d05\u2014 \u1d0d\u1d07\u1d05\u026a\u1d00 \u1d04\u1d0f\u0274\ua730\u026a\u0262 | \u0280\u1d07\u1d18\u029f\u1d00\u1d04\u1d07 \u1d04\u1d00\u1d1b\u0299\u1d0fx \u1d1c\u0280\u029fs",
+  "whatsapp": {
+    "menu_photo": "https://i.postimg.cc/RZhWCLF9/file-00000000a96c71fd8eecd34aa1c34d61.png",
+    "menu_thumb": "https://files.catbox.moe/lbe7sj.jpg",
+    "alive_photo": "https://i.postimg.cc/RZhWCLF9/file-00000000a96c71fd8eecd34aa1c34d61.png",
+    "welcome_photo": "https://files.catbox.moe/5896s8.jpg",
+    "goodbye_photo": "https://files.catbox.moe/uvdecw.jpg",
+    "pair_photo": "https://i.postimg.cc/pdNqNP7X/file-000000001c2071fda36a42a5db7f45a3.png",
+    "bot_menu_photo": "https://i.postimg.cc/pdNqNP7X/file-000000001c2071fda36a42a5db7f45a3.png"
+  },
+  "telegram": {
+    "start_photo": "https://i.postimg.cc/pdNqNP7X/file-000000001c2071fda36a42a5db7f45a3.png",
+    "start_music": "https://files.catbox.moe/250d9o.mp3",
+    "menu_photo": "https://i.postimg.cc/pdNqNP7X/file-000000001c2071fda36a42a5db7f45a3.png",
+    "banner_photo": "https://files.catbox.moe/lbe7sj.jpg"
+  },
+  "stickers": {
+    "intro": "https://files.catbox.moe/uvdecw.jpg",
+    "tag": "https://files.catbox.moe/uvdecw.jpg"
+  },
+  "_instructions": [
+    "1. Upload image to https://catbox.moe and copy direct link",
+    "2. Replace any value above with your catbox URL",
+    "3. bot_menu_photo = image shown with .menu command",
+    "4. alive_photo    = image shown with .alive command",
+    "5. pair_photo     = image sent when bot connects",
+    "6. Save and restart bot",
+    "TIP: Set MENU_PHOTO_URL in .env to override bot_menu_photo"
+  ]
+}

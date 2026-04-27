@@ -1,0 +1,34 @@
+{
+  "users": [],
+  "groups": [],
+  "antilink": {},
+  "antibadword": {},
+  "warnings": {},
+  "sudo": [],
+  "welcome": {
+    "120363425914191600@g.us": {
+      "enabled": true,
+      "message": "🎉✨ Welcome to the group! ✨🎉 💖 We’re happy to have you here—let’s make this space fun and friendly! 🌟",
+      "channelId": "120363407808106286@newsletter"
+    }
+  },
+  "goodbye": {
+    "120363425914191600@g.us": {
+      "enabled": true,
+      "message": "✨👋 A member has chosen to leave the group. 💖 Thank you for being part of the community! ✨",
+      "channelId": "120363407808106286@newsletter"
+    }
+  },
+  "chatbot": {},
+  "autoReaction": false,
+  "antitag": {
+    "120363425914191600@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363404462288629@g.us": {
+      "enabled": true,
+      "action": "kick"
+    }
+  }
+}
