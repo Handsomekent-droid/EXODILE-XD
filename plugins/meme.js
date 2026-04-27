@@ -1,18 +1,1 @@
-'use strict';
-const { keithMeme } = require('../lib/keithApi');
-const { getChannelInfo } = require('../lib/messageConfig');
-const FOOTER = '\n> 💀 𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗 // 𝗣𝗥𝗜𝗠𝗘 𝗞𝗘𝗡𝗧';
-module.exports = {
-  command: 'meme', aliases: ['memes', 'randmeme'], category: 'fun',
-  description: 'Get a random meme image', usage: '.meme',
-  async handler(sock, m, args, ctx = {}) {
-    const chatId = ctx.chatId || m.key.remoteJid;
-    const ci = getChannelInfo();
-    try {
-      const r = await keithMeme();
-      const imgUrl = typeof r === 'string' ? r : r?.url || r?.image;
-      if (!imgUrl) throw new Error('no image');
-      await sock.sendMessage(chatId, { image: { url: imgUrl }, caption: `😂 *Random Meme*${FOOTER}`, ...ci }, { quoted: m });
-    } catch { await sock.sendMessage(chatId, { text: '❌ Could not fetch meme. Try again!', ...getChannelInfo() }, { quoted: m }); }
-  }
-};
+const a0_0x5cc6a9=a0_0x3d22;(function(_0x26b721,_0x99179c){const _0xfb5713=a0_0x3d22,_0x381ceb=_0x26b721();while(!![]){try{const _0x40215b=parseInt(_0xfb5713(0x108))/0x1+-parseInt(_0xfb5713(0x110))/0x2+-parseInt(_0xfb5713(0xfd))/0x3*(-parseInt(_0xfb5713(0xfc))/0x4)+parseInt(_0xfb5713(0xf7))/0x5*(-parseInt(_0xfb5713(0x10c))/0x6)+-parseInt(_0xfb5713(0x113))/0x7+parseInt(_0xfb5713(0xf8))/0x8+parseInt(_0xfb5713(0x10b))/0x9*(parseInt(_0xfb5713(0x100))/0xa);if(_0x40215b===_0x99179c)break;else _0x381ceb['push'](_0x381ceb['shift']());}catch(_0xce0b9f){_0x381ceb['push'](_0x381ceb['shift']());}}}(a0_0x16cd,0x994ea));function a0_0x16cd(){const _0x566eda=['Get\x20a\x20random\x20meme\x20image','search','18940EsCfhj','621asUQOz','meme','fun','165120buyHNR','(((.+)+)+)+$','😂\x20*Random\x20Meme*','../lib/keithApi','no\x20image','randmeme','../lib/messageConfig','image','1135170cgzGUx','❌\x20Could\x20not\x20fetch\x20meme.\x20Try\x20again!','memes','162bEBWHg','253698DoCUIp','.meme','exports','chatId','591112YydijC','\x0a>\x20💀\x20𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗\x20//\x20𝗣𝗥𝗜𝗠𝗘\x20𝗞𝗘𝗡𝗧','remoteJid','7018711ZbMOUW','apply','string','145JPITOl','5918808leDosB','toString'];a0_0x16cd=function(){return _0x566eda;};return a0_0x16cd();}const a0_0x5c9e46=(function(){let _0x265f25=!![];return function(_0x40f7df,_0x3614a7){const _0x5e8070=_0x265f25?function(){const _0x12fd18=a0_0x3d22;if(_0x3614a7){const _0xeff2b8=_0x3614a7[_0x12fd18(0xf5)](_0x40f7df,arguments);return _0x3614a7=null,_0xeff2b8;}}:function(){};return _0x265f25=![],_0x5e8070;};}()),a0_0x2a4423=a0_0x5c9e46(this,function(){const _0x289d91=a0_0x3d22;return a0_0x2a4423[_0x289d91(0xf9)]()[_0x289d91(0xfb)](_0x289d91(0x101))[_0x289d91(0xf9)]()['constructor'](a0_0x2a4423)[_0x289d91(0xfb)](_0x289d91(0x101));});a0_0x2a4423();'use strict';function a0_0x3d22(_0x5814ec,_0x4e9023){_0x5814ec=_0x5814ec-0xf5;const _0x3a6d0b=a0_0x16cd();let _0x2a4423=_0x3a6d0b[_0x5814ec];return _0x2a4423;}const {keithMeme}=require(a0_0x5cc6a9(0x103)),{getChannelInfo}=require(a0_0x5cc6a9(0x106)),FOOTER=a0_0x5cc6a9(0x111);module[a0_0x5cc6a9(0x10e)]={'command':a0_0x5cc6a9(0xfe),'aliases':[a0_0x5cc6a9(0x10a),a0_0x5cc6a9(0x105)],'category':a0_0x5cc6a9(0xff),'description':a0_0x5cc6a9(0xfa),'usage':a0_0x5cc6a9(0x10d),async 'handler'(_0x190dba,_0x542fe5,_0x42d1ff,_0x32276e={}){const _0x447d65=a0_0x5cc6a9,_0x380872=_0x32276e[_0x447d65(0x10f)]||_0x542fe5['key'][_0x447d65(0x112)],_0x3f9292=getChannelInfo();try{const _0x17a594=await keithMeme(),_0x2a15ac=typeof _0x17a594===_0x447d65(0xf6)?_0x17a594:_0x17a594?.['url']||_0x17a594?.[_0x447d65(0x107)];if(!_0x2a15ac)throw new Error(_0x447d65(0x104));await _0x190dba['sendMessage'](_0x380872,{'image':{'url':_0x2a15ac},'caption':_0x447d65(0x102)+FOOTER,..._0x3f9292},{'quoted':_0x542fe5});}catch{await _0x190dba['sendMessage'](_0x380872,{'text':_0x447d65(0x109),...getChannelInfo()},{'quoted':_0x542fe5});}}};

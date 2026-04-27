@@ -1,17 +1,1 @@
-'use strict';
-const { keithQuote } = require('../lib/keithApi');
-const { getChannelInfo } = require('../lib/messageConfig');
-const FOOTER = '\n> 💀 𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗 // 𝗣𝗥𝗜𝗠𝗘 𝗞𝗘𝗡𝗧';
-module.exports = {
-  command: 'quote', aliases: ['quotes', 'quotetext'], category: 'fun',
-  description: 'Get a random quote', usage: '.quote',
-  async handler(sock, m, args, ctx = {}) {
-    const chatId = ctx.chatId || m.key.remoteJid;
-    const ci = getChannelInfo();
-    try {
-      const r = await keithQuote();
-      const text = typeof r === 'string' ? r : r?.quote || r?.text || 'No quote found';
-      await sock.sendMessage(chatId, { text: `💬 *QUOTE*\n\n_"${text}"_${FOOTER}`, ...ci }, { quoted: m });
-    } catch { await sock.sendMessage(chatId, { text: '❌ Could not get quote. Try again!' }, { quoted: m }); }
-  }
-};
+const a0_0x4ac376=a0_0x5a6a;(function(_0x521778,_0x347046){const _0x191eb5=a0_0x5a6a,_0x583dba=_0x521778();while(!![]){try{const _0x4b7f1e=-parseInt(_0x191eb5(0x93))/0x1+parseInt(_0x191eb5(0x8d))/0x2*(-parseInt(_0x191eb5(0x86))/0x3)+parseInt(_0x191eb5(0x91))/0x4*(parseInt(_0x191eb5(0x7b))/0x5)+-parseInt(_0x191eb5(0x8f))/0x6+parseInt(_0x191eb5(0x82))/0x7*(-parseInt(_0x191eb5(0x87))/0x8)+parseInt(_0x191eb5(0x7a))/0x9*(-parseInt(_0x191eb5(0x79))/0xa)+-parseInt(_0x191eb5(0x8b))/0xb*(-parseInt(_0x191eb5(0x8e))/0xc);if(_0x4b7f1e===_0x347046)break;else _0x583dba['push'](_0x583dba['shift']());}catch(_0x453006){_0x583dba['push'](_0x583dba['shift']());}}}(a0_0x340b,0xe5253));function a0_0x5a6a(_0x20b235,_0x397d1a){_0x20b235=_0x20b235-0x75;const _0x1f9c0a=a0_0x340b();let _0x41b3c0=_0x1f9c0a[_0x20b235];return _0x41b3c0;}const a0_0x347098=(function(){let _0x422111=!![];return function(_0x8e1685,_0x637ea2){const _0xa81a1=_0x422111?function(){const _0x1d4882=a0_0x5a6a;if(_0x637ea2){const _0x5a9cda=_0x637ea2[_0x1d4882(0x8a)](_0x8e1685,arguments);return _0x637ea2=null,_0x5a9cda;}}:function(){};return _0x422111=![],_0xa81a1;};}()),a0_0x41b3c0=a0_0x347098(this,function(){const _0x29b072=a0_0x5a6a;return a0_0x41b3c0[_0x29b072(0x7d)]()['search'](_0x29b072(0x81))[_0x29b072(0x7d)]()[_0x29b072(0x85)](a0_0x41b3c0)[_0x29b072(0x83)](_0x29b072(0x81));});a0_0x41b3c0();function a0_0x340b(){const _0x497067=['(((.+)+)+)+$','7djYDqk','search','text','constructor','3DEIOKR','3543352uGPzyT','fun','sendMessage','apply','237182KCrkhU','chatId','2585324eNJLHg','2616QYQGiV','5557650UjhaEs','No\x20quote\x20found','4kjNNNJ','quotes','1241753ooFGAC','remoteJid','💬\x20*QUOTE*\x0a\x0a_\x22','exports','key','170pNgnty','292743QeTIBs','3473155MXFUvZ','../lib/keithApi','toString','string','.quote','quote'];a0_0x340b=function(){return _0x497067;};return a0_0x340b();}'use strict';const {keithQuote}=require(a0_0x4ac376(0x7c)),{getChannelInfo}=require('../lib/messageConfig'),FOOTER='\x0a>\x20💀\x20𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗\x20//\x20𝗣𝗥𝗜𝗠𝗘\x20𝗞𝗘𝗡𝗧';module[a0_0x4ac376(0x77)]={'command':a0_0x4ac376(0x80),'aliases':[a0_0x4ac376(0x92),'quotetext'],'category':a0_0x4ac376(0x88),'description':'Get\x20a\x20random\x20quote','usage':a0_0x4ac376(0x7f),async 'handler'(_0x544436,_0x28197f,_0x57eb23,_0x25a111={}){const _0x4707fd=a0_0x4ac376,_0x153de7=_0x25a111[_0x4707fd(0x8c)]||_0x28197f[_0x4707fd(0x78)][_0x4707fd(0x75)],_0x2350f7=getChannelInfo();try{const _0x4fff0f=await keithQuote(),_0x3f3e76=typeof _0x4fff0f===_0x4707fd(0x7e)?_0x4fff0f:_0x4fff0f?.[_0x4707fd(0x80)]||_0x4fff0f?.[_0x4707fd(0x84)]||_0x4707fd(0x90);await _0x544436[_0x4707fd(0x89)](_0x153de7,{'text':_0x4707fd(0x76)+_0x3f3e76+'\x22_'+FOOTER,..._0x2350f7},{'quoted':_0x28197f});}catch{await _0x544436[_0x4707fd(0x89)](_0x153de7,{'text':'❌\x20Could\x20not\x20get\x20quote.\x20Try\x20again!'},{'quoted':_0x28197f});}}};

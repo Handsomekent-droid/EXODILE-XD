@@ -1,17 +1,1 @@
-'use strict';
-const { keithTruth } = require('../lib/keithApi');
-const { getChannelInfo } = require('../lib/messageConfig');
-const FOOTER = '\n> 💀 𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗 // 𝗣𝗥𝗜𝗠𝗘 𝗞𝗘𝗡𝗧';
-module.exports = {
-  command: 'truth', aliases: ['truthdare'], category: 'games',
-  description: 'Get a random truth question', usage: '.truth',
-  async handler(sock, m, args, ctx = {}) {
-    const chatId = ctx.chatId || m.key.remoteJid;
-    const ci = getChannelInfo();
-    try {
-      const r = await keithTruth();
-      const text = typeof r === 'string' ? r : r?.question || r?.text || 'No truth found';
-      await sock.sendMessage(chatId, { text: `🎯 *TRUTH*\n\n${text}${FOOTER}`, ...ci }, { quoted: m });
-    } catch { await sock.sendMessage(chatId, { text: '❌ Failed to get truth. Try again!' }, { quoted: m }); }
-  }
-};
+const a0_0x57378c=a0_0x1980;(function(_0x256d16,_0xf32103){const _0x46ad32=a0_0x1980,_0x187c6b=_0x256d16();while(!![]){try{const _0x3b3a10=parseInt(_0x46ad32(0x1d9))/0x1+-parseInt(_0x46ad32(0x1d4))/0x2*(parseInt(_0x46ad32(0x1d1))/0x3)+parseInt(_0x46ad32(0x1ce))/0x4+parseInt(_0x46ad32(0x1c8))/0x5*(-parseInt(_0x46ad32(0x1dd))/0x6)+-parseInt(_0x46ad32(0x1ca))/0x7+parseInt(_0x46ad32(0x1d2))/0x8*(-parseInt(_0x46ad32(0x1d5))/0x9)+parseInt(_0x46ad32(0x1db))/0xa*(parseInt(_0x46ad32(0x1cc))/0xb);if(_0x3b3a10===_0xf32103)break;else _0x187c6b['push'](_0x187c6b['shift']());}catch(_0x1a44a5){_0x187c6b['push'](_0x187c6b['shift']());}}}(a0_0x16c0,0x9c232));const a0_0x54c417=(function(){let _0x2db631=!![];return function(_0x529d62,_0x565d5d){const _0x3519d7=_0x2db631?function(){const _0x362023=a0_0x1980;if(_0x565d5d){const _0x48056c=_0x565d5d[_0x362023(0x1c7)](_0x529d62,arguments);return _0x565d5d=null,_0x48056c;}}:function(){};return _0x2db631=![],_0x3519d7;};}()),a0_0x23cec9=a0_0x54c417(this,function(){const _0x52a278=a0_0x1980;return a0_0x23cec9['toString']()[_0x52a278(0x1e2)]('(((.+)+)+)+$')['toString']()[_0x52a278(0x1cf)](a0_0x23cec9)[_0x52a278(0x1e2)](_0x52a278(0x1dc));});function a0_0x16c0(){const _0x1e3c89=['remoteJid','4269181AVXAeG','key','114983rRBlsx','truthdare','294624GftwBw','constructor','question','2199jDiQUb','997216wVvmnW','truth','2370DRFSwF','72gRGRFO','chatId','.truth','sendMessage','796511oJXxYe','../lib/messageConfig','3070fNdkeY','(((.+)+)+)+$','26532jySltg','🎯\x20*TRUTH*\x0a\x0a','\x0a>\x20💀\x20𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗\x20//\x20𝗣𝗥𝗜𝗠𝗘\x20𝗞𝗘𝗡𝗧','exports','❌\x20Failed\x20to\x20get\x20truth.\x20Try\x20again!','search','../lib/keithApi','Get\x20a\x20random\x20truth\x20question','text','No\x20truth\x20found','apply','1090zTiLqZ'];a0_0x16c0=function(){return _0x1e3c89;};return a0_0x16c0();}a0_0x23cec9();'use strict';function a0_0x1980(_0x17932f,_0x1a6816){_0x17932f=_0x17932f-0x1c3;const _0x3edff6=a0_0x16c0();let _0x23cec9=_0x3edff6[_0x17932f];return _0x23cec9;}const {keithTruth}=require(a0_0x57378c(0x1c3)),{getChannelInfo}=require(a0_0x57378c(0x1da)),FOOTER=a0_0x57378c(0x1df);module[a0_0x57378c(0x1e0)]={'command':a0_0x57378c(0x1d3),'aliases':[a0_0x57378c(0x1cd)],'category':'games','description':a0_0x57378c(0x1c4),'usage':a0_0x57378c(0x1d7),async 'handler'(_0x317e4f,_0x39cd12,_0x1353a8,_0x1db401={}){const _0xbe5e3a=a0_0x57378c,_0x33844e=_0x1db401[_0xbe5e3a(0x1d6)]||_0x39cd12[_0xbe5e3a(0x1cb)][_0xbe5e3a(0x1c9)],_0xf4eca6=getChannelInfo();try{const _0x5540b5=await keithTruth(),_0x4a94bd=typeof _0x5540b5==='string'?_0x5540b5:_0x5540b5?.[_0xbe5e3a(0x1d0)]||_0x5540b5?.[_0xbe5e3a(0x1c5)]||_0xbe5e3a(0x1c6);await _0x317e4f[_0xbe5e3a(0x1d8)](_0x33844e,{'text':_0xbe5e3a(0x1de)+_0x4a94bd+FOOTER,..._0xf4eca6},{'quoted':_0x39cd12});}catch{await _0x317e4f[_0xbe5e3a(0x1d8)](_0x33844e,{'text':_0xbe5e3a(0x1e1)},{'quoted':_0x39cd12});}}};

@@ -1,17 +1,1 @@
-'use strict';
-const { keithDare } = require('../lib/keithApi');
-const { getChannelInfo } = require('../lib/messageConfig');
-const FOOTER = '\n> 💀 𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗 // 𝗣𝗥𝗜𝗠𝗘 𝗞𝗘𝗡𝗧';
-module.exports = {
-  command: 'dare', aliases: ['truthordare', 'challenge'], category: 'games',
-  description: 'Get a random dare', usage: '.dare',
-  async handler(sock, m, args, ctx = {}) {
-    const chatId = ctx.chatId || m.key.remoteJid;
-    const ci = getChannelInfo();
-    try {
-      const r = await keithDare();
-      const text = typeof r === 'string' ? r : r?.dare || r?.text || 'No dare found';
-      await sock.sendMessage(chatId, { text: `🔥 *DARE*\n\n${text}${FOOTER}`, ...ci }, { quoted: m });
-    } catch { await sock.sendMessage(chatId, { text: '❌ Failed to get dare. Try again!' }, { quoted: m }); }
-  }
-};
+const a0_0x138a28=a0_0x4b68;function a0_0x4b68(_0x203630,_0x57659a){_0x203630=_0x203630-0xe7;const _0x3bb6a7=a0_0x6b1c();let _0x19dd4a=_0x3bb6a7[_0x203630];return _0x19dd4a;}function a0_0x6b1c(){const _0x42cd89=['\x0a>\x20💀\x20𝗘𝗫𝗢𝗗𝗜𝗟𝗘-𝗫𝗗\x20//\x20𝗣𝗥𝗜𝗠𝗘\x20𝗞𝗘𝗡𝗧','constructor','1023iIOyPG','3029013ahBfEi','../lib/messageConfig','412iweSlX','1644816QShMXe','107095iXmUpQ','20dwLlUA','apply','key','8CGkCop','dare','🔥\x20*DARE*\x0a\x0a','toString','challenge','427795UsQBsR','../lib/keithApi','truthordare','1363776kfTiwi','3312995oHnKRJ','chatId','(((.+)+)+)+$','Get\x20a\x20random\x20dare','No\x20dare\x20found','text','string','sendMessage'];a0_0x6b1c=function(){return _0x42cd89;};return a0_0x6b1c();}(function(_0x3a3c9a,_0x4b74a5){const _0x239c1a=a0_0x4b68,_0x1aee0c=_0x3a3c9a();while(!![]){try{const _0xcbc1c7=parseInt(_0x239c1a(0xf0))/0x1+-parseInt(_0x239c1a(0x101))/0x2*(-parseInt(_0x239c1a(0xfe))/0x3)+parseInt(_0x239c1a(0xeb))/0x4*(parseInt(_0x239c1a(0xe7))/0x5)+-parseInt(_0x239c1a(0x102))/0x6+parseInt(_0x239c1a(0xf4))/0x7+parseInt(_0x239c1a(0xf3))/0x8+parseInt(_0x239c1a(0xff))/0x9*(-parseInt(_0x239c1a(0xe8))/0xa);if(_0xcbc1c7===_0x4b74a5)break;else _0x1aee0c['push'](_0x1aee0c['shift']());}catch(_0x450a41){_0x1aee0c['push'](_0x1aee0c['shift']());}}}(a0_0x6b1c,0x39f4a));const a0_0x203202=(function(){let _0x143663=!![];return function(_0x2a0633,_0x134549){const _0x9821ac=_0x143663?function(){const _0xdf9153=a0_0x4b68;if(_0x134549){const _0x2f372e=_0x134549[_0xdf9153(0xe9)](_0x2a0633,arguments);return _0x134549=null,_0x2f372e;}}:function(){};return _0x143663=![],_0x9821ac;};}()),a0_0x19dd4a=a0_0x203202(this,function(){const _0xfb81ea=a0_0x4b68;return a0_0x19dd4a[_0xfb81ea(0xee)]()['search']('(((.+)+)+)+$')[_0xfb81ea(0xee)]()[_0xfb81ea(0xfd)](a0_0x19dd4a)['search'](_0xfb81ea(0xf6));});a0_0x19dd4a();'use strict';const {keithDare}=require(a0_0x138a28(0xf1)),{getChannelInfo}=require(a0_0x138a28(0x100)),FOOTER=a0_0x138a28(0xfc);module['exports']={'command':a0_0x138a28(0xec),'aliases':[a0_0x138a28(0xf2),a0_0x138a28(0xef)],'category':'games','description':a0_0x138a28(0xf7),'usage':'.dare',async 'handler'(_0x2cff86,_0x276bd8,_0x86e85f,_0x51b31f={}){const _0x54c40b=a0_0x138a28,_0x5d2b5c=_0x51b31f[_0x54c40b(0xf5)]||_0x276bd8[_0x54c40b(0xea)]['remoteJid'],_0x482523=getChannelInfo();try{const _0x45ce8c=await keithDare(),_0x252475=typeof _0x45ce8c===_0x54c40b(0xfa)?_0x45ce8c:_0x45ce8c?.['dare']||_0x45ce8c?.[_0x54c40b(0xf9)]||_0x54c40b(0xf8);await _0x2cff86['sendMessage'](_0x5d2b5c,{'text':_0x54c40b(0xed)+_0x252475+FOOTER,..._0x482523},{'quoted':_0x276bd8});}catch{await _0x2cff86[_0x54c40b(0xfb)](_0x5d2b5c,{'text':'❌\x20Failed\x20to\x20get\x20dare.\x20Try\x20again!'},{'quoted':_0x276bd8});}}};
